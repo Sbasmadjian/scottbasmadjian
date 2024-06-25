@@ -8,10 +8,8 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-[privacy]
-  [privacy.disqus]
-    disable = false
 
+disqusShortname = "yourDisqusShortname"
 
 paginate=3 # articles per page
 
