@@ -2,7 +2,6 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Thoughts on life, writing, and everything else.'
 theme = 'archie'
-languageCode = "en-us"
 copyright = "© Athul"
 # Code Highlight
 pygmentsstyle = "monokai"
