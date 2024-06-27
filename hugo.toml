@@ -9,7 +9,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 
-disqusShortname = "yourDisqusShortname"
+# disqusShortname = "yourDisqusShortname" 
 
 paginate=3 # articles per page
 
