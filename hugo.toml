@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'Thoughts on writing, and life.'
+title = 'Thoughts on writing & life.'
 theme = 'archie'
 copyright = "© Scott Basmadjian"
 # Code Highlight

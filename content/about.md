@@ -1,28 +1,23 @@
 +++
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+description = "Bio"
+date = "2024-06-27"
+aliases = ["about-us","about-scott","contact"]
+author = "Scott Basmadjian"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+I don’t particularly enjoy writing about myself. 
 
-Hugo makes use of a variety of open source projects including:
+Do I write in third person about myself and come off as just another boring back to a book jacket blurb, designed to sell, doomed to be skimmed and forgotten moments later?
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Scott is an Armenian American writer born and raised in the United States, specifically Salt Lake City, Utah. His dad, Harry, was a first-generation immigrant who, like many came to the United States for opportunity and to escape conflict…
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+How can I give an honest breakdown and share truth about who I am to someone who doesn’t know me, how do you know my reliability as a self-narrator?
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+If you are at this page and are screaming “SCOTT, I came to this page to figure out how to contact you, not for musings about how reliable autobiographies can really be.” To this I say, that’s fair, email me at scott@scottbasmadjian.com.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+To everyone else, if for whatever reason, you want to know more about me. The best way to learn about me is to read this site along with my other works. They will tell you far more about me, who I actually am as a person, than an about me page could ever muster.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
 
 
