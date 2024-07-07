@@ -1,6 +1,6 @@
 ---
 title: "Why I Write"
-date: 2024-7-7
+date: 2024-07-07
 description: "In the words of Simon Sinek 'people dont buy what you do, they buy why you do it'"
 tags: [Dramatic Theory, Motivation]
 ---
