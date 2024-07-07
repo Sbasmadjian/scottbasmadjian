@@ -15,7 +15,7 @@ My mind races as I pace around the room.
 
 I should have become a banker, or a broker, or a bricklayer really any other career (why they all start with B not even I know). WHY DID I DO THIS TO MYSELF? Where is my music? Maybe I’ve had too much coffee, or not enough. The desk is dirty, the light is not right.
 
-Lay down in the middle of the floor. The first twenty seconds of the Donkey Kong Country theme song has started playing on loop in my head (link for those unfamiliar).
+Lay down in the middle of the floor. The first twenty seconds of the Donkey Kong Country theme song has started playing on loop in my head (link for those unfamiliar https://www.youtube.com/watch?v=qpfm1Q96Sgw).
 
 Breathe, I remind myself. Remember what it feels like to feel completely worthless, isolated, and alone. If we can connect, reach even one person through my writing, and share that burden, let them know that they aren’t alone even if it feels like it. If we can “decrease that terrible sense of isolation we’ve all had too much of” as Anne Lamott so excellently put, we will have done it. 
 
