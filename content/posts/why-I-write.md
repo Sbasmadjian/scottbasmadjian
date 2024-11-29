@@ -1,8 +1,8 @@
 ---
 title: "Why I Write"
 date: 2024-07-07
-description: "In the words of Simon Sinek 'people dont buy what you do, they buy why you do it'"
-tags: [Dramatic Theory, Motivation]
+description: "In the words of Simon Sinek, 'people dont buy what you do, they buy why you do it.'"
+tags: [Motivation]
 ---
 
 The words I just wrote stare back at me. I loathe them. They don’t fit into the story, really, they don’t even form anything resembling a coherent thought. 
